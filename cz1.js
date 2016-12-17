@@ -7,7 +7,7 @@ function drawChart(){
             type: 'line'
         },*/
 		title: {
-            text: 'Wizualizacja danych cz. 1' 
+            text: 'Wizualizacja danych cz. 2' 
         },
 		xAxis: {
 			categories: headers
